@@ -1,2 +1,3 @@
-# Pytorch-Circles-Classification
-We build a Pytorch model that classifies a circular data of 2 classes, with a 100% accuracy, check this notebook to know how ?
+# Pytorch-Bianry-and-Multiclass-Classification
+
+In this Notebook we built a Binary classification model on the toy dataset called Circles, and a Multi-class classification model with Blob/cluster data, and have receinved an accuracy of 100% in both of them
